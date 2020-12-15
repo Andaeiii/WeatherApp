@@ -1,0 +1,24 @@
+
+.toolbar-title{
+    text-align:center;
+}
+
+$colors : (
+    primary : #6495ed,
+    secondary: #435d8c,
+    danger: #f53d3d,
+    light: #ffffff,
+    dark : #222
+);
+
+
+.home{
+    margin-top:30px;
+}
+
+$tabs-md-tab-color: #5bf006;
+$tabs-md-tab-color-active: #ffffff;
+
+.tabs-md, .tab-button-icon{
+    color:#ccc;
+}
