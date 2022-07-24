@@ -1,0 +1,3 @@
+# WeatherApp
+Built with angular/ionic.... 
+to get the weather forecasts of any particular region
